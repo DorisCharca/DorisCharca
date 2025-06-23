@@ -1,11 +1,3 @@
-</head>
-<body>
-  <h1>Olá, eu sou Doris Charca</h1>
-  <p>Seja bem-vindo ao meu espaço pessoal, onde compartilho meus projetos e aprendizados.</p>
-  <p>Estou focada em Ciência de Dados e adoro explorar novas tecnologias e desafios.</p>
-</body>
-</html>
-
 
 <!--
 **DorisCharca/DorisCharca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
